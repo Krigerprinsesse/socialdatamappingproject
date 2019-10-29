@@ -1,0 +1,27 @@
+body {
+  padding: 0px;
+  margin: 10px;
+}
+
+#map,
+body,
+html {
+  height: 90%;
+}
+
+/* Styling the header, giving it a height, a background color, and some top padding */
+.header {
+  height: 150x;
+  padding-top: 10px;
+  margin: 10px;
+  background: #1876f1;
+}
+
+/* Centering our h1 tag inside our header, giving it a little padding, removing its margin */
+.header h1 {
+  padding: 60px;
+  margin: 10px;
+  color: rgb(250, 245, 245);
+  text-align: center;
+  font-size: 80px;
+}
